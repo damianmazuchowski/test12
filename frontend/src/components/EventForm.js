@@ -11,7 +11,7 @@ function EventForm({ method, event }) {
   return (
     <form className={classes.form}>
       <p>
-        <label htmlFor="title">Title</label>
+        <label htmlFor="title">Tgittle</label>
         <input id="title" type="text" name="title" required />
       </p>
       <p>
